@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #5a5e5f;
+    color: #110f0f;
+    text-align: center;
+    padding: 10px;
+    height: 106px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    border: 10px solid #000000;
+    border-radius: 5px;
+    background-color: #000000;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#conteudo {
+    padding: 20px;
+}
+.texto1{
+    text-align: justify;
+    font-family: Georgia;
+    font-size: 16px;
+    padding: auto;
+}
