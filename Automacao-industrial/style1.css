@@ -17,4 +17,11 @@ iframe{
 }
 img{
     height: 150px;
+    text-align: center;
+}
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; 
 }
